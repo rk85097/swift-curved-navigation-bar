@@ -1,5 +1,5 @@
 # swift-curved-navigation-bar
-Curved UINavigationBar written in Swift 3.0
+Curved UINavigationBar written in Swift 4.0
 
 ![](http://www.aviationwb.com/image-1.png)
 # Installation 
