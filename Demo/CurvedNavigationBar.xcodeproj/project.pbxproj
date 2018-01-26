@@ -14,7 +14,6 @@
 		D3BAC9162019DA2800AA52A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3BAC9142019DA2800AA52A9 /* LaunchScreen.storyboard */; };
 		D3BAC9222019DA9B00AA52A9 /* CALayerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BAC91E2019DA9B00AA52A9 /* CALayerExtension.swift */; };
 		D3BAC9232019DA9B00AA52A9 /* UIViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BAC91F2019DA9B00AA52A9 /* UIViewControllerExtension.swift */; };
-		D3BAC9242019DA9B00AA52A9 /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BAC9202019DA9B00AA52A9 /* UIViewExtension.swift */; };
 		D3BAC9252019DA9B00AA52A9 /* UIBezierPathExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3BAC9212019DA9B00AA52A9 /* UIBezierPathExtension.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		D3BAC9172019DA2800AA52A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D3BAC91E2019DA9B00AA52A9 /* CALayerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CALayerExtension.swift; sourceTree = "<group>"; };
 		D3BAC91F2019DA9B00AA52A9 /* UIViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtension.swift; sourceTree = "<group>"; };
-		D3BAC9202019DA9B00AA52A9 /* UIViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
 		D3BAC9212019DA9B00AA52A9 /* UIBezierPathExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIBezierPathExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,7 +77,6 @@
 				D3BAC91E2019DA9B00AA52A9 /* CALayerExtension.swift */,
 				D3BAC9212019DA9B00AA52A9 /* UIBezierPathExtension.swift */,
 				D3BAC91F2019DA9B00AA52A9 /* UIViewControllerExtension.swift */,
-				D3BAC9202019DA9B00AA52A9 /* UIViewExtension.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -156,7 +153,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3BAC9242019DA9B00AA52A9 /* UIViewExtension.swift in Sources */,
 				D3BAC9232019DA9B00AA52A9 /* UIViewControllerExtension.swift in Sources */,
 				D3BAC9222019DA9B00AA52A9 /* CALayerExtension.swift in Sources */,
 				D3BAC9252019DA9B00AA52A9 /* UIBezierPathExtension.swift in Sources */,
